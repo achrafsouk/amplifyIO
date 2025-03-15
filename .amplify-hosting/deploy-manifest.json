@@ -39,7 +39,6 @@
         "pathname": "/**",
       }
     ],
-    ],
     "formats": [],
     "minimumCacheTTL": 60,
     "dangerouslyAllowSVG": false
