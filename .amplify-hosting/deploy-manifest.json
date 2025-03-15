@@ -35,5 +35,12 @@
     "formats": [],
     "minimumCacheTTL": 60,
     "dangerouslyAllowSVG": false
-  }
+  },
+  "computeResources": [
+    {
+      "name": "default",
+      "runtime": "nodejs18.x",
+      "entrypoint": "index.js"
+    }
+  ]
 }
