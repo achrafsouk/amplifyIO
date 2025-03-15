@@ -34,12 +34,6 @@
       "main.d3o1gd76ew0q9c.amplifyapp.com"
     ],
     "remotePatterns": [
-      {
-        "protocol": "https",
-        "hostname": "main.d3o1gd76ew0q9c.amplifyapp.com",
-        "port": "",
-        "pathname": "/**",
-      }
     ],
     "formats": [],
     "minimumCacheTTL": 60,
