@@ -31,7 +31,15 @@
       1920
     ],
     "domains": [],
-    "remotePatterns": [],
+    "remotePatterns": [
+      {
+        "protocol": "https",
+        "hostname": "main.d3o1gd76ew0q9c.amplifyapp.com",
+        "port": "",
+        "pathname": "/**",
+      }
+    ],
+    ],
     "formats": [],
     "minimumCacheTTL": 60,
     "dangerouslyAllowSVG": false
