@@ -26,6 +26,7 @@
   ],
   "imageSettings": {
     "sizes": [
+      200, 400, 800
     ],
     "domains": [
       "main.d3o1gd76ew0q9c.amplifyapp.com"
